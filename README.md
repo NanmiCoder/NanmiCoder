@@ -8,4 +8,4 @@
 
 ### 📊 Statistics
 ***
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nanmicoder&show_icons=true&locale=en" alt="nanmicoder" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nanmicoder&show_icons=true&theme=radical&locale=en" alt="nanmicoder" /></p>
