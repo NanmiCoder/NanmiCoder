@@ -1,7 +1,7 @@
 ### 👋 Hi there, I am Relakkes
 ***
-- 🌱 I’m currently learning golang
-- 💬 Ask me about python or crawler or others 
+- 🌱 I currently work at klook, mainly responsible for R&D work on quality and efficiency.
+- 💬 Ask me about python or crawler or golang or others 
 - 📫 How to reach me: relakkes@gmail.com
 - 📘 Currently reading books<br>
   - [x] [go语言设计与实现](https://draveness.me/golang/)
