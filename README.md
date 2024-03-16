@@ -1,6 +1,5 @@
 ### 👋 Hi there, I am Relakkes
 ***
-- 🌱 I currently work at klook, mainly responsible for R&D work on quality and efficiency.
 - 💬 Ask me about python or crawler or golang or others 
 - 📫 How to reach me: relakkes@gmail.com
 - 📘 Currently reading books<br>
