@@ -4,8 +4,10 @@
 - 📫 How to reach me: relakkes@gmail.com
 - 📘 Currently reading books<br>
   - [x] [go语言设计与实现](https://draveness.me/golang/)
+  - [x] [mysql45讲](http://gk.link/a/12gJD)  
+  - [ ] [Designing Data-Intensive Applications](https://github.com/Vonng/ddia?tab=readme-ov-file)
   - [ ] [设计模式之美](http://gk.link/a/12gJA)
-  - [ ] [mysql45讲](http://gk.link/a/12gJD)
+  
 
 ### 📊 Statistics
 ***
