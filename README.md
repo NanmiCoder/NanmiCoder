@@ -1,7 +1,7 @@
 ### 👋 Hi there, I am Relakkes
 ***
 - 💬 Ask me about python or crawler or golang or others 
-- 📫 How to reach me: relakkes@gmail.com
+- 📫 How to reach me，wechat：yzglan，email：relakkes@gmail.com
 
   
 
