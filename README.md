@@ -2,7 +2,7 @@
 ***
 - 💬 Ask me about python or crawler or golang or others 
 - 📫 How to reach me，wechat：yzglan，email：relakkes@gmail.com
-- 📚 Free Python Web Scraping Course：[Course link](https://space.bilibili.com/434377496/channel/collectiondetail?sid=4035213)
+- 📚 Free Python Web Scraping Course：[Course link](https://space.bilibili.com/434377496/lists/4035213?type=season)
 
   
 
