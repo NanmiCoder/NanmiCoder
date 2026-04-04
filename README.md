@@ -9,3 +9,5 @@
 - 📕 Xiaohongshu: [程序员阿江-Relakkes](https://www.xiaohongshu.com/user/profile/5f58bd990000000001003753)
 - 📬 Email: [relakkes@gmail.com](mailto:relakkes@gmail.com)
 - 📚 Free Python Web Scraping Course: [Course link](https://space.bilibili.com/434377496/lists/4035213?type=season)
+
+自媒体视频存档的一些演示文档PPT、提示词、配置 [自取](https://github.com/NanmiCoder/creator-dev-kit)
