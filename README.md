@@ -32,20 +32,7 @@
   Today I build developer tools such as **[cc-haha](https://github.com/NanmiCoder/cc-haha)** and share practical content about
   Python, web crawling, Golang, AI coding, AI agents, and real-world engineering.
 </details>
-<details open>
-  <summary><h2>🚀 Featured Open Source</h2></summary>
 
-  <p align="left">
-    <a href="https://github.com/NanmiCoder/MediaCrawler"><img width="278" src="https://nanmicoder-readme-cards.vercel.app/api/pin?username=NanmiCoder&repo=MediaCrawler&bg_color=0D1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="MediaCrawler" /></a>
-    <a href="https://github.com/NanmiCoder/cc-haha"><img width="278" src="https://nanmicoder-readme-cards.vercel.app/api/pin?username=NanmiCoder&repo=cc-haha&bg_color=0D1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="cc-haha" /></a>
-    <a href="https://github.com/NanmiCoder/CrawlerTutorial"><img width="278" src="https://nanmicoder-readme-cards.vercel.app/api/pin?username=NanmiCoder&repo=CrawlerTutorial&bg_color=0D1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="CrawlerTutorial" /></a>
-    <a href="https://github.com/NanmiCoder/NewsCrawler"><img width="278" src="https://nanmicoder-readme-cards.vercel.app/api/pin?username=NanmiCoder&repo=NewsCrawler&bg_color=0D1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="NewsCrawler" /></a>
-    <a href="https://github.com/NanmiCoder/skills-agent-proto"><img width="278" src="https://nanmicoder-readme-cards.vercel.app/api/pin?username=NanmiCoder&repo=skills-agent-proto&bg_color=0D1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="skills-agent-proto" /></a>
-    <a href="https://github.com/NanmiCoder/open-image-prompts"><img width="278" src="https://nanmicoder-readme-cards.vercel.app/api/pin?username=NanmiCoder&repo=open-image-prompts&bg_color=0D1117&title_color=58A6FF&hide_border=true&icon_color=F8D866" alt="open-image-prompts" /></a>
-  </p>
-
-  <a href="https://github.com/NanmiCoder?tab=repositories&sort=stargazers"><img alt="View all repositories" src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-</details>
 
 <details open>
   <summary><h2>🎬 Content & Tutorials</h2></summary>
@@ -57,8 +44,6 @@
   </p>
 </details>
 
-<details>
-  <summary><h2>🛠️ Languages & Tools</h2></summary>
 
   <h3>Programming</h3>
 
@@ -70,16 +55,7 @@
     <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
   </p>
 
-  <h3>AI & Engineering</h3>
 
-  <p>
-    <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-    <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-    <img alt="Electron" src="https://img.shields.io/badge/Electron-20232E?style=for-the-badge&logo=electron&logoColor=61DAFB" />
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
-  </p>
-</details>
 
 <details>
   <summary><h2>📊 Stats & Activity</h2></summary>
