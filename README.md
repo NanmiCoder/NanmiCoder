@@ -25,7 +25,7 @@
 <details open>
   <summary><h2>👋 My Journey</h2></summary>
 
-  I’m **Relakkes (Ajiang)**, an open-source author, Python developer, and content creator.
+  I’m **Relakkes (阿江)**, an open-source author, Python developer, and content creator.
   I went from being an *Honor of Kings* streamer to becoming a programmer, then built
   **[MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)**, an open-source project with more than 59k GitHub stars.
 
