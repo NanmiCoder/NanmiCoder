@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
       alt="Relakkes — open-source author, developer, and creator"
-      src="https://readme-typing-svg.demolab.com/?lines=Open-source+author+behind+MediaCrawler;Building+cc-haha+for+Claude+Code+%26+AI+agents;Python+%7C+Golang+%7C+AI+coding+%7C+Creator;From+Honor+of+Kings+streamer+to+programmer&font=Fira+Code&center=true&width=760&height=45&color=58A6FF&vCenter=true&pause=1000&size=21"
+      src="https://readme-typing-svg.demolab.com/?lines=Building+ModelDial+for+AI+model+evaluation+%26+selection;Open-source+author+behind+MediaCrawler;Building+cc-haha+for+Claude+Code+%26+AI+agents;Python+%7C+Golang+%7C+AI+coding+%7C+Creator;From+Honor+of+Kings+streamer+to+programmer&font=Fira+Code&center=true&width=760&height=45&color=58A6FF&vCenter=true&pause=1000&size=21"
     />
   </a>
 </p>
@@ -17,22 +17,30 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NanmiCoder?tab=repositories&sort=stargazers"><img alt="Total GitHub stars" src="https://img.shields.io/badge/TOTAL_STARS-89.7K-0969DA?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/NanmiCoder?tab=repositories&sort=stargazers"><img alt="Total GitHub stars" src="https://img.shields.io/badge/TOTAL_STARS-93%2C203-0969DA?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/NanmiCoder?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/NanmiCoder?style=for-the-badge&logo=github&label=FOLLOWERS&color=1F883D" /></a>
-  <a href="https://github.com/NanmiCoder?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/PUBLIC_REPOS-52-6E40C9?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/NanmiCoder?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/PUBLIC_REPOS-55-6E40C9?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+<details open>
+  <summary><h2>🚀 The Startup I'm Building</h2></summary>
+
+  I'm building **[ModelDial](https://modeldial.com/?utm_source=github&utm_medium=referral&utm_campaign=github-profile&utm_content=startup-project)**, a platform for AI model evaluation and selection.
+
+  We test AI models on private datasets and compare their capabilities, costs, and reasoning effort levels
+  to help you find the right model for your tasks.
+</details>
 
 <details open>
   <summary><h2>👋 My Journey</h2></summary>
 
   I’m **Relakkes (阿江)**, an open-source author, Python developer, and content creator.
   I went from being an *Honor of Kings* streamer to becoming a programmer, then built
-  **[MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)**, an open-source project with more than 66k GitHub stars.
+  **[MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)**, an open-source project with **68,672 GitHub stars**.
 
   Today I build developer tools such as **[cc-haha](https://github.com/NanmiCoder/cc-haha)** and share practical content about
   Python, web crawling, Golang, AI coding, AI agents, and real-world engineering.
 </details>
-
 
 <details open>
   <summary><h2>🎬 Content & Tutorials</h2></summary>
@@ -44,18 +52,15 @@
   </p>
 </details>
 
+<h3>Programming</h3>
 
-  <h3>Programming</h3>
-
-  <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </p>
-
-
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 <details>
   <summary><h2>📊 Stats & Activity</h2></summary>
