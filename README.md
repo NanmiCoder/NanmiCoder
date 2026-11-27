@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NanmiCoder?tab=repositories&sort=stargazers"><img alt="Total GitHub stars" src="https://img.shields.io/badge/TOTAL_STARS-93%2C203-0969DA?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/NanmiCoder?tab=repositories&sort=stargazers"><img alt="Total GitHub stars" src="https://img.shields.io/badge/TOTAL_STARS-97%2C768-0969DA?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/NanmiCoder?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/NanmiCoder?style=for-the-badge&logo=github&label=FOLLOWERS&color=1F883D" /></a>
-  <a href="https://github.com/NanmiCoder?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/PUBLIC_REPOS-55-6E40C9?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/NanmiCoder?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/PUBLIC_REPOS-114-6E40C9?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <details open>
@@ -36,7 +36,7 @@
 
   I’m **Relakkes (阿江)**, an open-source author, Python developer, and content creator.
   I went from being an *Honor of Kings* streamer to becoming a programmer, then built
-  **[MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)**, an open-source project with **68,672 GitHub stars**.
+  **[MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)**, an open-source project with **71,877 GitHub stars**.
 
   Today I build developer tools such as **[cc-haha](https://github.com/NanmiCoder/cc-haha)** and share practical content about
   Python, web crawling, Golang, AI coding, AI agents, and real-world engineering.
